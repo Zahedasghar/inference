@@ -1,38 +1,10 @@
 [
   {
-    "objectID": "labs/w3-lab02.html",
-    "href": "labs/w3-lab02.html",
-    "title": "Lab 02: Data visualization with ggplot2!",
+    "objectID": "hw/w2-hw01.html",
+    "href": "hw/w2-hw01.html",
+    "title": "HW 01: Pet Names",
     "section": "",
     "text": "Add instructions for assignment."
-  },
-  {
-    "objectID": "labs/w2-lab01.html",
-    "href": "labs/w2-lab01.html",
-    "title": "Lab 01: Hello R!",
-    "section": "",
-    "text": "Add instructions for assignment."
-  },
-  {
-    "objectID": "weeks/week-02.html",
-    "href": "weeks/week-02.html",
-    "title": "Week 02",
-    "section": "",
-    "text": "Assignments\n\n\n\n\n\n\nAssignment\n\n\nTitle\n\n\nDue\n\n\n\n\n\n\nHomework\n\n\nHW 01: Pet Names\n\n\nWed, Sep 14\n\n\n\n\nLab\n\n\nLab 01: Hello R!\n\n\nFri, Sep 16\n\n\n\n\n\n\nNo matching items\n\n\n\n\nReadings\n\nR for Data Science: Chapter 3 - Data Visualization\nIntroduction for Modern Statistics: Chapter 4 - Exploring Categorical Data\nIntroduction to Modern Statistics: Chapter 5- Exploring Numerical Data"
-  },
-  {
-    "objectID": "weeks/week-03.html",
-    "href": "weeks/week-03.html",
-    "title": "Week 03",
-    "section": "",
-    "text": "Assignments\n\n\n\n\n\n\nAssignment\n\n\nTitle\n\n\nDue\n\n\n\n\n\n\nHomework\n\n\nHW 02: Data visualization\n\n\nWed, Sep 21\n\n\n\n\nLab\n\n\nLab 02: Data visualization with ggplot2!\n\n\nFri, Sep 23\n\n\n\n\n\n\nNo matching items\n\n\n\n\nReadings"
-  },
-  {
-    "objectID": "weeks/week-01.html",
-    "href": "weeks/week-01.html",
-    "title": "Week 01",
-    "section": "",
-    "text": "Assignments\nThere are no assignments scheduled this week.\n\n\nReadings\n\n\n\n\n\n\nCourse Syllabus\n\n\nR for Data Science: Chapter 2 - Introduction\n\n\nIntro to Modern Data Science: Chapter 1 - Hello data"
   },
   {
     "objectID": "hw/w3-hw02.html",
@@ -42,144 +14,193 @@
     "text": "Add instructions for assignment."
   },
   {
-    "objectID": "hw/w2-hw01.html",
-    "href": "hw/w2-hw01.html",
-    "title": "HW 01: Pet Names",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Inferential Statistics",
+    "section": "",
+    "text": "In this course, you’ll learn how to use statistical techniques to make inferences and estimations using numerical and categorical data. Students are required to finish computer-based assignments. I wish that you learn stuff in this class in a way learning is fixed and timing will be a variable but due to some regulatory issues, some hybrid model will be followed. Without active engagement, you will not be able to learn well and perform good in the course.\nPre-requisite: Basic Statistics or special approval needed\n\n\nAt the end of this course, the student should be able to:\n\nDefine and summarize research design and data collection principles and concepts.\nCreate and interpret graphical data summaries.\nCalculate and interpret summary statistics.\nCalculate probabilities.\nUnderstand inferential statistics.\nPerform hypothesis tests for numerical and categorical data\nCalculate confidence interval for numerical and categorical data\nANOVA"
+  },
+  {
+    "objectID": "index.html#grading-policy",
+    "href": "index.html#grading-policy",
+    "title": "Inferential Statistics",
+    "section": "Grading Policy",
+    "text": "Grading Policy\n\n25% of your grade will be determined by a midterm exam.\n10% of your grade will be determined by Quiz in class.\n15% of your grade will be determined by your attendance and participation in class, and homework. Generally, ask questions and answer them.\n20% of your grade will be determined by a 20-page term paper on when exactly “The Love Boat” jumped the proverbial shark. You will address whether this shark-jumping can be attributed to Ted McGinley, the introduction of Jill Whelan as “Vicki”, or some other cause.\n50% of your grade will be determined by a final exam."
+  },
+  {
+    "objectID": "index.html#attendance-policy",
+    "href": "index.html#attendance-policy",
+    "title": "Inferential Statistics",
+    "section": "Attendance Policy",
+    "text": "Attendance Policy\n\nShowing up is 80 percent of life – Woody Allen, via Marshall Brickman\n\nStudents should be weary of skipping class. I deduct all participation points for a class after five unexcused absences and this can have important implications for a student’s overall grade in the class."
+  },
+  {
+    "objectID": "index.html#late-arrival-of-the-professor-policy",
+    "href": "index.html#late-arrival-of-the-professor-policy",
+    "title": "Inferential Statistics",
+    "section": "Late Arrival of the Professor Policy",
+    "text": "Late Arrival of the Professor Policy\nI will inform students via e-mail/others in advance of class if class is cancelled for the day due to some unavoidable reason(s)."
+  },
+  {
+    "objectID": "index.html#e-mailsocial-media-policy",
+    "href": "index.html#e-mailsocial-media-policy",
+    "title": "Inferential Statistics",
+    "section": "E-mail/Social Media Policy",
+    "text": "E-mail/Social Media Policy\nI am usually quick to respond to student messages sent through e-mails. However, student other e-media messages are some times send messages which dont need any response from my side and they can visit me in my office hours."
+  },
+  {
+    "objectID": "index.html#make-up-exam-policy",
+    "href": "index.html#make-up-exam-policy",
+    "title": "Inferential Statistics",
+    "section": "Make-Up Exam Policy",
+    "text": "Make-Up Exam Policy\nThere are NO make-ups for missed exams. Don’t bother asking."
+  },
+  {
+    "objectID": "index.html#academic-dishonesty-policy",
+    "href": "index.html#academic-dishonesty-policy",
+    "title": "Inferential Statistics",
+    "section": "Academic Dishonesty Policy",
+    "text": "Academic Dishonesty Policy\nDon’t cheat. Don’t be that guy. Yes, you. You know exactly what I’m talking about too."
+  },
+  {
+    "objectID": "labs/w2-lab01.html",
+    "href": "labs/w2-lab01.html",
+    "title": "Lab 01: Hello R!",
     "section": "",
     "text": "Add instructions for assignment."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Introduction to Data Science Course Website",
+    "objectID": "labs/w3-lab02.html",
+    "href": "labs/w3-lab02.html",
+    "title": "Lab 02: Data visualization with ggplot2!",
     "section": "",
-    "text": "Course overview from STA 199: Introduction to Data Science at Duke University\nIntro to data science and statistical thinking. Learn to explore, visualize,and analyze data to understand natural phenomena, investigate patterns, model outcomes,and make predictions, and do so in a reproducible and shareable manner. Gain experience in data wrangling and munging, exploratory data analysis, predictive modeling, data visualization, and effectively communicating results. Work on problems and case studies inspired by and based on real-world questions and data. The course will focus on the R statistical computing language."
+    "text": "Add instructions for assignment."
   },
   {
-    "objectID": "index.html#class-meetings",
-    "href": "index.html#class-meetings",
-    "title": "Introduction to Data Science Course Website",
-    "section": "Class meetings",
-    "text": "Class meetings\n\n\n\nMeeting\nLocation\nTime\n\n\n\n\nLecture\nRoom A\nMon & Wed 10 - 11:15am\n\n\nLab 01\nRoom B\nThu 10 - 11:15am\n\n\nLab 02\nRoom C\nThu 1:45 - 3pm\n\n\nLab 03\nRoom D\nThu 3:30 - 4:45pm"
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Week\n\n\nDates\n\n\nTopic\n\n\n\n\n\n\nWeek 01\n\n\nFeb 13- Feb 21\n\n\nWelcome to Inferential Statistics\n\n\n\n\nWeek 02\n\n\nSep 05 - 09\n\n\nVisualizing Data\n\n\n\n\nWeek 03\n\n\nSep 12 - 16\n\n\nWrangling Data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html#teaching-team",
-    "href": "index.html#teaching-team",
-    "title": "Introduction to Data Science Course Website",
-    "section": "Teaching team",
-    "text": "Teaching team\n\n\n\nName\nOffice hours\nLocation\n\n\n\n\nInstructor\nTue 2 - 3pm\nOffice 123\n\n\nTeaching Assistant 1\nMon 5 - 7pm\nZoom\n\n\nTeaching Assistant 2\nFri 11am - 1pm\nZoom"
+    "objectID": "schedule.html#assignments",
+    "href": "schedule.html#assignments",
+    "title": "Schedule",
+    "section": "Assignments",
+    "text": "Assignments\nBelow are assignment due dates for the semester. You can find details and assignment instructions in the relevant week on the schedule.\n\nHomework\nHomework will be due on Wednesdays at 11:59pm. You will have one week to complete each homework assignment.\n\n\nLabs\nLabs will be due on Fridays at 11:59pm. You will start the lab during your scheduled lab section.\n\n\nExams\nThere will be two exams on the dates TBD by School of Economics."
   },
   {
     "objectID": "slides/week-01/01-example.html#bullet-point-list",
     "href": "slides/week-01/01-example.html#bullet-point-list",
-    "title": "Welcome to Intro Data Science",
+    "title": "Welcome to course",
     "section": "Bullet point list",
     "text": "Bullet point list\nUnordered\n\nItem A\nItem B\nItem C\n\nOrdered\n\nItem 1\nItem 2\nItem 3"
   },
   {
     "objectID": "slides/week-01/01-example.html#incremental-list",
     "href": "slides/week-01/01-example.html#incremental-list",
-    "title": "Welcome to Intro Data Science",
+    "title": "Welcome to course",
     "section": "Incremental list",
     "text": "Incremental list\n\n\nItem 1\nItem 2\nItem 3"
   },
   {
     "objectID": "slides/week-01/01-example.html#equations",
     "href": "slides/week-01/01-example.html#equations",
-    "title": "Welcome to Intro Data Science",
+    "title": "Welcome to course",
     "section": "Equations",
     "text": "Equations\nWrite mathematical symbols and equations using Latex.\nUse the formulas below to calculate \\(\\hat{\\beta}_1\\), the estimated slope, and \\(\\hat{\\beta}_0\\), the estimated intercept.\n\\[\n\\begin{aligned}\n&\\hat{\\beta}_1 = r \\frac{s_y}{s_x} \\\\\n&\\hat{\\beta}_0 = \\bar{y} - \\hat{\\beta}_1 \\bar{x}\n\\end{aligned}\n\\]"
   },
   {
     "objectID": "slides/week-01/01-example.html#code",
     "href": "slides/week-01/01-example.html#code",
-    "title": "Welcome to Intro Data Science",
+    "title": "Welcome to course",
     "section": "Code",
     "text": "Code\n\n# Use code chunk option fig-align: center to center the plot. \nggplot(data = penguins, aes(x = flipper_length_mm, y = body_mass_g, \n                            color = species)) + \n         geom_point() + \n  labs(x = \"Flipper Length (in mm)\",y = \"Body Mass (in g)\",\n       title = \"Flipper length vs. body mass\",\n       subtitle = \"Penguins at Palmer Station, Antartica\") +\n  scale_color_viridis_d()"
   },
   {
     "objectID": "slides/week-01/01-example.html#images",
     "href": "slides/week-01/01-example.html#images",
-    "title": "Welcome to Intro Data Science",
+    "title": "Welcome to course",
     "section": "Images",
     "text": "Images\n\nArtwork by @allison_horst"
   },
   {
     "objectID": "slides/week-01/01-example.html#columns",
     "href": "slides/week-01/01-example.html#columns",
-    "title": "Welcome to Intro Data Science",
+    "title": "Welcome to course",
     "section": "Columns",
     "text": "Columns\n\n\nCalculate the proportion of penguins from each species.\n\n\npenguins |>\n  count(species) |>\n  mutate(prop  = n / sum(n))\n\n# A tibble: 3 × 3\n  species       n  prop\n  <fct>     <int> <dbl>\n1 Adelie      152 0.442\n2 Chinstrap    68 0.198\n3 Gentoo      124 0.360"
   },
   {
     "objectID": "slides/week-01/01-example.html#panels",
     "href": "slides/week-01/01-example.html#panels",
-    "title": "Welcome to Intro Data Science",
+    "title": "Welcome to course",
     "section": "Panels",
     "text": "Panels\n\nPlotCode\n\n\n\npenguins |>\n  filter(species == \"Adelie\", !is.na(sex)) |>\n  ggplot(aes(x = flipper_length_mm, y = body_mass_g, color = sex)) + \n  geom_point() +\n  labs(x = \"Flipper Length (in mm)\",y = \"Body Mass (in g)\",\n       title = \"Flipper length vs. body mass\",\n       subtitle = \"Adelie Penguins at Palmer Station, Antartica\") +\n  scale_color_viridis_d() + \n  facet_wrap(~island)\n\n\n\n\n\n\n\npenguins |>\n  filter(species == \"Adelie\", !is.na(sex)) |>\n  ggplot(aes(x = flipper_length_mm, y = body_mass_g, color = sex)) + \n  geom_point() +\n  labs(x = \"Flipper Length (in mm)\",y = \"Body Mass (in g)\",\n       title = \"Flipper length vs. body mass\",\n       subtitle = \"Adelie Penguins at Palmer Station, Antartica\") +\n  scale_color_viridis_d() + \n  facet_wrap(~island)"
   },
   {
     "objectID": "slides/week-01/01-example.html#themes",
     "href": "slides/week-01/01-example.html#themes",
-    "title": "Welcome to Intro Data Science",
+    "title": "Welcome to course",
     "section": "Themes",
-    "text": "Themes\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\nCreate custom thing using Sass\n\nSpecify the theme and/or Sass file (.scss) in the YAML\n\n\n\n🔗 rstudio-conf-2022.github.io/teach-ds-course-website"
+    "text": "Themes\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\nCreate custom thing using Sass\n\nSpecify the theme and/or Sass file (.scss) in the YAML"
   },
   {
     "objectID": "slides/week-01/02-demo.html#bullet-point-list",
     "href": "slides/week-01/02-demo.html#bullet-point-list",
-    "title": "Meet the Toolkit",
+    "title": "Summarising Data",
     "section": "Bullet point list",
     "text": "Bullet point list"
   },
   {
     "objectID": "slides/week-01/02-demo.html#incremental-list",
     "href": "slides/week-01/02-demo.html#incremental-list",
-    "title": "Meet the Toolkit",
+    "title": "Summarising Data",
     "section": "Incremental list",
     "text": "Incremental list"
   },
   {
     "objectID": "slides/week-01/02-demo.html#equations",
     "href": "slides/week-01/02-demo.html#equations",
-    "title": "Meet the Toolkit",
+    "title": "Summarising Data",
     "section": "Equations",
     "text": "Equations"
   },
   {
     "objectID": "slides/week-01/02-demo.html#code",
     "href": "slides/week-01/02-demo.html#code",
-    "title": "Meet the Toolkit",
+    "title": "Summarising Data",
     "section": "Code",
     "text": "Code"
   },
   {
     "objectID": "slides/week-01/02-demo.html#images",
     "href": "slides/week-01/02-demo.html#images",
-    "title": "Meet the Toolkit",
+    "title": "Summarising Data",
     "section": "Images",
     "text": "Images"
   },
   {
     "objectID": "slides/week-01/02-demo.html#columns",
     "href": "slides/week-01/02-demo.html#columns",
-    "title": "Meet the Toolkit",
+    "title": "Summarising Data",
     "section": "Columns",
     "text": "Columns"
   },
   {
     "objectID": "slides/week-01/02-demo.html#panels",
     "href": "slides/week-01/02-demo.html#panels",
-    "title": "Meet the Toolkit",
+    "title": "Summarising Data",
     "section": "Panels",
     "text": "Panels"
   },
   {
     "objectID": "slides/week-01/02-demo.html#themes",
     "href": "slides/week-01/02-demo.html#themes",
-    "title": "Meet the Toolkit",
+    "title": "Summarising Data",
     "section": "Themes",
-    "text": "Themes\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\n\nSpecify the theme and/or Sass file (.scss) in the YAML\n\n\n\n🔗 rstudio-conf-2022.github.io/teach-ds-course-website"
+    "text": "Themes\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\n\nSpecify the theme and/or Sass file (.scss) in the YAML\n\n\n\n🔗 Data Analytics"
   },
   {
     "objectID": "syllabus.html",
@@ -193,62 +214,48 @@
     "href": "syllabus.html#course-learning-objectives",
     "title": "Syllabus",
     "section": "Course Learning Objectives",
-    "text": "Course Learning Objectives\nBy the end of the semester, you will…\n\nlearn to explore, visualize, and analyze data in a reproducible and shareable manner\ngain experience in data wrangling and munging, exploratory data analysis, predictive modeling, and data visualization work on problems and case studies inspired by and based on real-world questions and data\nlearn to effectively communicate results through written assignments and final project presentation"
+    "text": "Course Learning Objectives\nBy the end of the semester, you will…\n\nlearn to explore, visualize, and analyze data in a reproducible and shareable manner using posit.cloud forum\nunderstanding sampling and sampling distributions,p-value, generalizing statistical results, testing of hypothesis and confidence intervals\nlearn to effectively communicate statistical results by taking care of various types of biases."
   },
   {
     "objectID": "syllabus.html#textbooks",
     "href": "syllabus.html#textbooks",
     "title": "Syllabus",
     "section": "Textbooks",
-    "text": "Textbooks\nAll books are freely available online. Hardcopies are also available for purchase.\n\n\n\nR for Data Science\nGrolemund, Wickham\nO’Reilly, 1st edition, 2016\n\n\nIntroduction to Modern Statistics\nÇetinkaya-Rundel, Hardin\nOpenIntro Inc., 1st Edition, 2021"
+    "text": "Textbooks\nAll books are freely available online. Hardcopies are also available for purchase.\n\n\n\nOpenintro\nDavid Diez, Christopher Barr, and Mine Çetinkaya-Rundel\nCenter for Open Education\n\n\nStatistics 4th Edition\nJohn Wiley & Sons, New York."
   },
   {
     "objectID": "syllabus.html#course-community",
     "href": "syllabus.html#course-community",
     "title": "Syllabus",
     "section": "Course community",
-    "text": "Course community\n\nInclusive community\nIt is my intent that students from all diverse backgrounds and perspectives be well-served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength, and benefit. It is my intent to present materials and activities that are respectful of diversity and in alignment with Duke’s Commitment to Diversity and Inclusion. Your suggestions are encouraged and appreciated.\n\n\nAccessibility\nIf there is any portion of the course that is not accessible to you due to challenges with technology or the course format, please let me know so we can make appropriate accommodations.\nThe Student Disability Access Office (SDAO) is available to ensure that students are able to engage with their courses and related assignments. Students should be in touch with the Student Disability Access Office to request or update accommodations under these circumstances.\n\n\nCommunication\nAll lecture notes, assignment instructions, an up-to-date schedule, and other course materials may be found on the course website.\nAnnouncements will be emailed through Sakai Announcements periodically. Please check your email regularly to ensure you have the latest announcements for the course."
+    "text": "Course community\n\nInclusive community\nI will do my best to serve students with all background according to their learning needs both in and out of class and the diversity, QAU has, that the students bring to this class be viewed as a resource, strength, and benefit. Your feedback and suggestions will be welcomed.\n\n\nAccessibility\nI am doing my best to keep my course(s) as per required international standards with adjustments as per studentsads’ needs as well. I will try to keep this course as accessible as possible throughout the semester that missing class will even not do much harm.\n\n\nCommunication\nAll lecture notes, assignment instructions, an up-to-date schedule, and other course materials may be found on the course website.\nAnnouncements will be made through whatsapp group but stuff and questions threads will be through discord. Please check these sources periodically so you dont miss anything."
   },
   {
     "objectID": "syllabus.html#activities-assessment",
     "href": "syllabus.html#activities-assessment",
     "title": "Syllabus",
     "section": "Activities & Assessment",
-    "text": "Activities & Assessment\n\nLabs\nIn labs, you will apply the concepts discussed in lecture to various data analysis scenarios, with a focus on the computation.\n\n\nHomework\nIn homework, you will apply what you’ve learned during lecture and lab to complete data analysis tasks.\n\n\nExams\nThere will be two, take-home, open-note exams. Through these exams you have the opportunity to demonstrate what you’ve learned in the course thus far.\n\n\nFinal Project\nThe purpose of the final project is to apply what you’ve learned throughout the semester to analyze an interesting data-driven research question."
+    "text": "Activities & Assessment\n\nLabs\nIn labs, you will apply the concepts discussed in lecture to various data analysis scenarios, with a focus on the computation.\n\n\nHomework\nIn homework, you will apply what you’ve learned during lecture and lab to complete data analysis tasks.\n\n\nExams\nThere will be two, mid term and final exam. Through these exams you have the opportunity to demonstrate what you’ve learned in the course thus far.\n\n\nFinal Project\nThe purpose of the final project is to apply what you’ve learned throughout the semester to analyze an interesting data-driven research question.\n\n\n\nCategory\nPercentage\n\n\n\n\nHomework\n10%\n\n\nLabs\n10%\n\n\nFinal\n50%\n\n\nMid-term\n25%\n\n\nIn-class exercises/quiz\n5%"
   },
   {
-    "objectID": "syllabus.html#grading",
-    "href": "syllabus.html#grading",
-    "title": "Syllabus",
-    "section": "Grading",
-    "text": "Grading\nThe final course grade will be calculated as follows:\n\n\n\n\nCategory\nPercentage\n\n\n\n\nHomework\n30%\n\n\nLabs\n15%\n\n\nFinal Project\n15%\n\n\nExam 01\n17.5%\n\n\nExam 02\n17.5%\n\n\nIn-class exercises\n5%"
-  },
-  {
-    "objectID": "syllabus.html#course-policies",
-    "href": "syllabus.html#course-policies",
-    "title": "Syllabus",
-    "section": "Course policies",
-    "text": "Course policies\n\nAcademic honesty\nTL;DR: Don’t cheat!\nPlease abide by the following as you work on assignments in this course:\n\nYou may discuss individual homework and lab assignments with other students; however, you may not directly share (or copy) code or write up with other students. For team assignments, you may collaborate freely within your team. You may discuss the assignment with other teams; however, you may not directly share (or copy) code or write up with another team. Unauthorized sharing (or copying) of the code or write up will be considered a violation for all students involved.\nYou may not discuss or otherwise work with others on the exams.\nReusing code: Unless explicitly stated otherwise, you may make use of online resources (e.g. StackOverflow) for coding examples on assignments. If you directly use code from an outside source (or use it as inspiration), you must explicitly cite where you obtained the code. Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism.\n\n\n\nLate work & extensions\nThe due dates for assignments are there to help you keep up with the course material and to ensure the teaching team can provide feedback within a timely manner. We understand that things come up periodically that could make it difficult to submit an assignment by the deadline. Note that the lowest homework and lab assignment will be dropped to accommodate such circumstances."
-  },
-  {
-    "objectID": "syllabus.html#important-dates",
-    "href": "syllabus.html#important-dates",
-    "title": "Syllabus",
-    "section": "Important dates",
-    "text": "Important dates\n\nAug 23: Classes begin\nSep 3: Drop/add ends\nOct 4-5: Fall break\nNov 5: Last day to withdraw with W\nNov 24-26: Thanksgiving recess\nDec 3: Classes end\nDec 4-7: Reading period\nDec 8-13: Final exams"
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
+    "objectID": "weeks/week-01.html",
+    "href": "weeks/week-01.html",
+    "title": "Week 01",
     "section": "",
-    "text": "Week\n\n\nDates\n\n\nTopic\n\n\n\n\n\n\nWeek 01\n\n\nAug 29 - Sep 02\n\n\nWelcome to Intro Data Science\n\n\n\n\nWeek 02\n\n\nSep 05 - 09\n\n\nVisualizing Data\n\n\n\n\nWeek 03\n\n\nSep 12 - 16\n\n\nWrangling Data\n\n\n\n\n\n\nNo matching items"
+    "text": "Lectures\n\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWelcome to course\n\n\nMon, Aug 29\n\n\n\n\nSummarising Data\n\n\nMon, Feb 13\n\n\n\n\n\n\nNo matching items\n\n\n\n\nAssignments\nThere are no assignments scheduled this week.\n\n\nReadings\n\n\n\n\n\n\nCourse Syllabus\n\n\nIntroduction to data ch1\n\n\nIntro to Modern Data Science: Chapter 1 - Hello data"
   },
   {
-    "objectID": "schedule.html#assignments",
-    "href": "schedule.html#assignments",
-    "title": "Schedule",
-    "section": "Assignments",
-    "text": "Assignments\nBelow are assignment due dates for the semester. You can find details and assignment instructions in the relevant week on the schedule.\n\nHomework\nHomework will be due on Wednesdays at 11:59pm. You will have one week to complete each homework assignment.\n\n\nLabs\nLabs will be due on Fridays at 11:59pm. You will start the lab during your scheduled lab section.\n\n\nExams\nThere will be two exams on the dates:\n\nOctober 12, 9am - October 14, 11:59pm\nNovember 16, 9am - November 16: 11:59pm"
+    "objectID": "weeks/week-02.html",
+    "href": "weeks/week-02.html",
+    "title": "Week 02",
+    "section": "",
+    "text": "Lectures\n\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nVisualizing data with ggplot2\n\n\nMon, Sep 05\n\n\n\n\nVisualizing numeric data\n\n\nWed, Sep 07\n\n\n\n\nVisualizing categorical data\n\n\nWed, Sep 07\n\n\n\n\n\n\nNo matching items\n\n\n\n\nAssignments\n\n\n\n\n\n\nAssignment\n\n\nTitle\n\n\nDue\n\n\n\n\n\n\nHomework\n\n\nHW 01: Pet Names\n\n\nWed, Sep 14\n\n\n\n\nLab\n\n\nLab 01: Hello R!\n\n\nFri, Sep 16\n\n\n\n\n\n\nNo matching items\n\n\n\n\nReadings\n\nR for Data Science: Chapter 3 - Data Visualization\nIntroduction for Modern Statistics: Chapter 4 - Exploring Categorical Data\nIntroduction to Modern Statistics: Chapter 5- Exploring Numerical Data"
+  },
+  {
+    "objectID": "weeks/week-03.html",
+    "href": "weeks/week-03.html",
+    "title": "Week 03",
+    "section": "",
+    "text": "Lectures\n\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nGrammar of data wrangling\n\n\nMon, Sep 12\n\n\n\n\nWorking with a single data frame\n\n\nMon, Sep 12\n\n\n\n\nWorking with multiple data frames\n\n\nWed, Sep 14\n\n\n\n\n\n\nNo matching items\n\n\n\n\nAssignments\n\n\n\n\n\n\nAssignment\n\n\nTitle\n\n\nDue\n\n\n\n\n\n\nHomework\n\n\nHW 02: Data visualization\n\n\nWed, Sep 21\n\n\n\n\nLab\n\n\nLab 02: Data visualization with ggplot2!\n\n\nFri, Sep 23\n\n\n\n\n\n\nNo matching items\n\n\n\n\nReadings"
   }
 ]

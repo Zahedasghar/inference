@@ -1,7 +1,7 @@
 ---
 title: "Week 01"
-subtitle: "Welcome to Intro Data Science"
-description: "Aug 29 - Sep 02"
+subtitle: "Welcome to Inferential Statistics"
+description: "Feb 13- Feb 21"
 author: ""
 date: ""
 listing:
@@ -48,5 +48,5 @@ There are no assignments scheduled this week.
 |                                                                                                           |
 |-----------------------------------------------------------------------------------------------------------|
 | Course Syllabus                                                                                           |
-| [R for Data Science: Chapter 2 - Introduction](https://r4ds.had.co.nz/explore-intro.html)                 |
+| [Introduction to data ch1](https://github.com/OpenIntroStat/openintro-statistics-slides/blob/master/Chp%201/chp1.pdf)                 |
 | [Intro to Modern Data Science: Chapter 1 - Hello data](https://openintro-ims.netlify.app/data-hello.html) |

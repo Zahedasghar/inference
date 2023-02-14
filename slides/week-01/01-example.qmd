@@ -1,9 +1,9 @@
 ---
-title: "Welcome to Intro Data Science"
+title: "Welcome to course"
 subtitle: "Example presentation"
 date: "August 29, 2022"
-footer: "[🔗 rstudio-conf-2022.github.io/teach-ds-course-website](https://rstudio-conf-2022.github.io/teach-ds-course-website)"
-logo: "images/logo.png"
+footer: ""
+logo: "images/ggplot2.png"
 format: 
   revealjs:
     theme: solarized

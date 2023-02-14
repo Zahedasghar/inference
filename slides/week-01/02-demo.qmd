@@ -1,7 +1,7 @@
 ---
-title: "Meet the Toolkit"
-date: "August 31, 2022"
-footer: "[🔗 rstudio-conf-2022.github.io/teach-ds-course-website](https://rstudio-conf-2022.github.io/teach-ds-course-website)"
+title: "Summarising Data"
+date: "February 13, 2023"
+footer: "[🔗 Data Analytics](https://zahidasghar.com/inference)"
 logo: "../images/logo.png"
 format: 
   revealjs:
